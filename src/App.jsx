@@ -5,7 +5,7 @@ import Footer from "./pages/Shared/Footer";
 
 function App() {
   return (
-    <div className="max-md:w-[1440px] mx-auto">
+    <div className="max-md:w-[1440px] mx-auto bg-[#fbfbfb]">
       <Navbar />
       <Outlet />
       <Footer />

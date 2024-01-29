@@ -2,6 +2,7 @@ import React from "react";
 import Banner from "./Banner";
 import Features from "../../components/Features";
 import AiDestination from "../../components/AiDestination";
+import Contact from "../../components/Contact";
 
 const HomePage = () => {
   return (
@@ -9,6 +10,7 @@ const HomePage = () => {
       <Banner />
       <Features />
       <AiDestination />
+      <Contact />
     </div>
   );
 };

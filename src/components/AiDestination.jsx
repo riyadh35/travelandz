@@ -16,7 +16,7 @@ const AiDestination = () => {
   };
 
   return (
-    <div className="mb-16">
+    <div className="mb-32">
       <div className="w-[872px]">
         <h4 className="font-bold text-[35px] text-[#1B1B1E]">
           Discover Unique Destinations with AI Trip Itinerary.
