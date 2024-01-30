@@ -25,7 +25,7 @@ const Contact = () => {
           <input
             type="text"
             placeholder="Your name"
-            className="w-[457px] h-[50px] border rounded-[100px] mt-2 px-4"
+            className="w-[457px] h-[50px] border border-[#DFDFDF] bg-white rounded-[100px] mt-2 px-4"
           />
         </div>
         <div>
@@ -35,7 +35,7 @@ const Contact = () => {
           <input
             type="text"
             placeholder="Your phone number"
-            className="w-[457px] h-[50px] border rounded-[100px] mt-2 px-4"
+            className="w-[457px] h-[50px] border border-[#DFDFDF] bg-white rounded-[100px] mt-2 px-4"
           />
         </div>
         <div>
@@ -48,7 +48,7 @@ const Contact = () => {
           <input
             type="text"
             placeholder="Your email address"
-            className="w-[457px] h-[50px] border rounded-[100px] mt-2 px-4"
+            className="w-[457px] h-[50px] border border-[#DFDFDF] bg-white rounded-[100px] mt-2 px-4"
           />
         </div>
         <div>
@@ -58,7 +58,7 @@ const Contact = () => {
           <textarea
             type=""
             placeholder="How can we help ?"
-            className="w-[457px] h-[120px] border rounded-[20px] mt-2 px-2 pt-2"
+            className="w-[457px] h-[120px] border border-[#DFDFDF] bg-white rounded-[20px] mt-2 px-2 pt-2"
           />
         </div>
         {/* submit button */}

@@ -37,7 +37,7 @@ const Banner = () => {
               type="text"
               id="destination"
               placeholder="What is your destination"
-              className="w-[279px] h-[47px] border px-5 rounded-3xl"
+              className="w-[279px] h-[47px] border border-[#DFDFDF] bg-white px-5 rounded-3xl"
             />
           </div>
           {/* check in  */}
@@ -49,7 +49,7 @@ const Banner = () => {
               type="date"
               id="check-in"
               placeholder="DD/MM/YYYY"
-              className="w-[160px] h-[47px] border px-5 rounded-3xl items-center"
+              className="w-[160px] h-[47px] border border-[#DFDFDF] bg-white px-5 rounded-3xl items-center"
             />
           </div>
           {/* check out  */}
@@ -61,7 +61,7 @@ const Banner = () => {
               type="date"
               id="check-out"
               placeholder="DD/MM/YYYY"
-              className="w-[160px] h-[47px] border px-5 rounded-3xl items-center"
+              className="w-[160px] h-[47px] border border-[#DFDFDF] bg-white px-5 rounded-3xl items-center"
             />
           </div>
           {/*  Guest   */}
@@ -73,7 +73,7 @@ const Banner = () => {
               type="number"
               id="guests"
               placeholder="1"
-              className="w-[140px] h-[47px] border px-5 rounded-3xl items-center"
+              className="w-[140px] h-[47px] border border-[#DFDFDF] bg-white px-5 rounded-3xl items-center"
             />
           </div>
           {/* submit button */}
